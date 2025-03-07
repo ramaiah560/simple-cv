@@ -3,7 +3,9 @@
 
 ![Profile Banner](images/image1.jpg) <!-- Replace with your banner image -->
 
-## 👨‍💻 About Me
+
+
+ ##👨‍💻 About Me
 I am a passionate **Frontend Developer** with experience in building interactive web applications using **React.js, JavaScript, and Spring Boot**. Skilled in API integration and UI/UX optimization, I strive to create **efficient, scalable, and user-friendly web solutions**.
 
 ## 🛠 Skills
